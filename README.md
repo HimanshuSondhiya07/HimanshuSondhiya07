@@ -15,4 +15,4 @@ I'm a passionate software developer with a strong focus on creating impactful pr
 - Building scalable back-end systems with microservices architecture
 
 ## 📫 Get in Touch
-- [LinkedIn](#https://www.linkedin.com/in/himanshu-sondhiya-9175282b0/)
+- [LinkedIn](https://www.linkedin.com/in/himanshu-sondhiya-9175282b0/)
